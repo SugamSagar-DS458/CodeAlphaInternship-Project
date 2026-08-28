@@ -9,13 +9,13 @@ This repository contains the projects and tasks I completed during my Data Scien
 * **Objective:** [ Train a machine learning model to classify iris flowers into three species based on their measurements.]
 * **Techniques Used:** [Exploratory Data Analysis, Logistic Regression, Decision Trees]
 * **Libraries:** `pandas`, `matplotlib`, `scikit-learn`
-* [Link to Notebook](https://github.com/SugamSagar-DS458/OIBSIP/tree/main/DataScience-Task1-IrisFlowerClassification)
+* [Link to Notebook](https://github.com/SugamSagar-DS458/CodeAlphaInternship-Project/tree/main/Task1-IrisFlowerClassification)
 
-### Task 2: [Unemployment Analysis with Python]
-* **Objective:** [Analyze the unemployment rate across different regions during the COVID-19 pandemic.]
+### Task 2: [Sales Price Prediction]
+* **Objective:** [ Analyzed the relationship between advertising spend and sales, build a regression model to predict sales, and visualizes how each channel individually impacts predicted sales.]
 * **Techniques Used:** [Data Cleaning, Time Series Visualization, Plotly]
 * **Libraries:** `pandas`, `seaborn`, `plotly`
-* [Link to Notebook](https://github.com/SugamSagar-DS458/OIBSIP/tree/main/DataScience-Task2-UnemploymentInIndia)
+* [Link to Notebook](https://github.com/SugamSagar-DS458/CodeAlphaInternship-Project/tree/main/Task2-SalesPricePrediction)
 
 ## 🛠️ Tech Stack
 * **Language:** Python
