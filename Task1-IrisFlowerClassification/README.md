@@ -16,6 +16,11 @@ The dataset is loaded from an `Iris.csv` file.
 3. **Model Training:** A Logistic Regression model was initialized with a maximum of 200 iterations (`max_iter=200`) and trained on the data. 
 4. **Decision Boundary Visualization:** A secondary Logistic Regression model was trained exclusively on `PetalLengthCm` and `PetalWidthCm` to plot the 2D decision boundaries and visually map the classifications.
 
+## Screenshots/Demo Video
+
+### Logistic Regression Decision Boundaries (Petal Length vs. Petal Width
+[Logistic Regression Decision Boundaries (Petal Length vs. Petal Width](https://github.com/SugamSagar-DS458/OIBSIP/blob/main/DataScience-Task1-IrisFlowerClassification/Screenshot%202026-08-27%20170246.png)
+
 ## Results
 * **Accuracy:** The Logistic Regression model achieved a perfect accuracy score of **1.00 (100%)** on the testing set.
 
