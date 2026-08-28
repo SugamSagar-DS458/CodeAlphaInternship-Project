@@ -19,7 +19,7 @@ The dataset is loaded from an `Iris.csv` file.
 ## Screenshots/Demo Video
 
 ### Logistic Regression Decision Boundaries (Petal Length vs. Petal Width)
-[Logistic Regression Decision Boundaries (Petal Length vs. Peta)l Width](https://github.com/SugamSagar-DS458/CodeAlphaInternship-Project/blob/main/Task1-IrisFlowerClassification/Screenshot%202026-08-28%20171424.png)
+[Logistic Regression Decision Boundaries (Petal Length vs. Peta Width](https://github.com/SugamSagar-DS458/CodeAlphaInternship-Project/blob/main/Task1-IrisFlowerClassification/Screenshot%202026-08-28%20171424.png)
 
 ## Results
 * **Accuracy:** The Logistic Regression model achieved a perfect accuracy score of **1.00 (100%)** on the testing set.
