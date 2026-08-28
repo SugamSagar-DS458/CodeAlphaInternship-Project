@@ -25,3 +25,7 @@ The dataset is loaded from an `Iris.csv` file.
 * **Scikit-Learn**: For the train-test split, model training (`LogisticRegression`), and calculating model metrics (`accuracy_score`).
 * **Matplotlib & Seaborn**: For creating the decision boundary contour maps and plotting the training points.
 * **NumPy**: For generating mesh grids during visualization.
+
+## Acknowledgements
+
+Task completed as part of the **CodeAlpha Data Science Internship**.
