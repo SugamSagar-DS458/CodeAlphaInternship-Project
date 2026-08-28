@@ -82,22 +82,17 @@ The Linear Regression model shows a strong relationship between advertising spen
 
 ## 🖼️ Screenshots
 
-> Add your own output screenshots below. Create a folder named `screenshots/` in your repo, save the images there, and update the file names/paths if needed.
-
 ### 📊 Ad Spend vs Sales (Regression Plots)
-![Ad Spend vs Sales](screenshots/adspend_vs_sales.png)
-
-### 📉 Model Evaluation Output
-![Model Evaluation](screenshots/model_evaluation.png)
+![Ad Spend vs Sales](https://github.com/SugamSagar-DS458/CodeAlphaInternship-Project/blob/main/Task2-SalesPricePrediction/Screenshot%202026-08-28%20191508.png)
 
 ### 📈 Predicted Sales vs TV Ad Spend
-![TV Spend Impact](screenshots/tv_spend_impact.png)
+![TV Spend Impact](https://github.com/SugamSagar-DS458/CodeAlphaInternship-Project/blob/main/Task2-SalesPricePrediction/Screenshot%202026-08-28%20191330.png)
 
 ### 📈 Predicted Sales vs Radio Ad Spend
-![Radio Spend Impact](screenshots/radio_spend_impact.png)
+![Radio Spend Impact](https://github.com/SugamSagar-DS458/CodeAlphaInternship-Project/blob/main/Task2-SalesPricePrediction/Screenshot%202026-08-28%20191349.png)
 
 ### 📈 Predicted Sales vs Newspaper Ad Spend
-![Newspaper Spend Impact](screenshots/newspaper_spend_impact.png)
+![Newspaper Spend Impact](https://github.com/SugamSagar-DS458/CodeAlphaInternship-Project/blob/main/Task2-SalesPricePrediction/Screenshot%202026-08-28%20191402.png)
 
 ---
 
@@ -130,7 +125,6 @@ The Linear Regression model shows a strong relationship between advertising spen
 ├── Advertising.csv         # Dataset (add this file to the repo)
 ├── screenshots/            # Output screenshots used in this README
 │   ├── adspend_vs_sales.png
-│   ├── model_evaluation.png
 │   ├── tv_spend_impact.png
 │   ├── radio_spend_impact.png
 │   └── newspaper_spend_impact.png
